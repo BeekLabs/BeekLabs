@@ -12,7 +12,7 @@
 ## Founders
 <p align="left">
 
- - <a href="https://twitter.com/b3nj1_1" target="_blank">b3nj1</a>
+ - <a href="https://twitter.com/b3nj1_1" target="_blank">B3nj1</a>
  
  - <a href="https://twitter.com/Eriik451" target="_blank">Erik451</a>
   
